@@ -1,12 +1,14 @@
 ### Hello world 👋
 
-<img src="http://gif.co/Yffh.gif">
+<img src="http://gif.co/Yffh.gif" >
 
-My name is Talita and I am a Software Developer. 
+ My name is Talita and I am a Software Developer.  
 
-I'm from Brazil.
+🇧🇷  I'm from Brazil.
 
-Currently working @ Thoughtworks.
+👩🏽‍💻  Currently working @ Thoughtworks.
+
+I like play games on Nintendo Swicth, draw some stuff using HTML and CSS, do some diagrams to understand things.... and some more things I don't remember now.. 
 
 
 - 😄  Pronouns: She/Her
