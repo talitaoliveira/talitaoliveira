@@ -1,5 +1,6 @@
 ### Hello world 👋
 
+<img src="http://gif.co/Yffh.gif">
 
 My name is Talita and I am a Software Developer currently working @ Thoughtworks.
 
@@ -12,3 +13,5 @@ My name is Talita and I am a Software Developer currently working @ Thoughtworks
 
 
 🛠 This page is still working in progress..
+
+
