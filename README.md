@@ -8,7 +8,7 @@
 
 👩🏽‍💻  Currently working @ Thoughtworks.
 
-I like play games on Nintendo Swicth, draw some stuff using HTML and CSS, do some diagrams to understand things.... and some more things I don't remember now.. 
+I like play games on Nintendo Switch, draw some stuff using HTML and CSS, do some diagrams to understand things.... and some more things I don't remember now.. 
 
 
 - 😄  Pronouns: She/Her
