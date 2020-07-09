@@ -2,7 +2,9 @@
 
 <img src="http://gif.co/Yffh.gif">
 
-My name is Talita and I am a Software Developer currently working @ Thoughtworks.
+My name is Talita and I am a Software Developer. 
+I'm from Brazil.
+Currently working @ Thoughtworks.
 
 
 - 😄  Pronouns: She/Her
