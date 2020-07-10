@@ -1,5 +1,6 @@
-<code>
 ### Hello world 👋
+
+<samp>
 
 <img src="http://gif.co/Yffh.gif" >
 
@@ -20,5 +21,5 @@ I like play games on Nintendo Switch, draw some stuff using HTML and CSS, do som
 
 
 🛠 This page is still working in progress..
-</code>
+</samp>
 
