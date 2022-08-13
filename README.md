@@ -4,13 +4,13 @@
 
 <img src="http://gif.co/Yffh.gif" >
 
- My name is Talita and I am a Software Developer.  
+ My name is Talita and I am a Software Engineer.  
 
 🇧🇷  I'm from Brazil.
+ I'm living in Germany.
 
-👩🏽‍💻  Currently working @ Thoughtworks.
 
-I like play games on Nintendo Switch, draw some stuff using HTML and CSS, do some diagrams to understand things.... and some more things I don't remember now.. 
+👩🏽‍💻  Currently working @ ImmobilienScout24.
 
 
 - 😄  Pronouns: She/Her
