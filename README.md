@@ -6,8 +6,7 @@
 
  My name is Talita and I am a Software Engineer.  
 
-🇧🇷  I'm from Brazil.
- I'm living in Germany.
+🇧🇷  I'm from Brazil and living in Germany.
 
 
 👩🏽‍💻  Currently working @ ImmobilienScout24.
