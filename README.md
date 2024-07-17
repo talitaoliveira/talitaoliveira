@@ -9,7 +9,7 @@
 🇧🇷  I'm from Brazil and living in Germany.
 
 
-👩🏽‍💻  Currently working @ ImmobilienScout24.
+👩🏽‍💻  Currently working @ Scout24.
 
 
 - 😄  Pronouns: She/Her
