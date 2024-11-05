@@ -14,7 +14,6 @@
 
 - 😄  Pronouns: She/Her
 - 🔗  Here are some of my links:
-  - [Blog](https://blog.talitaoliveira.com.br/) -  It's still in portuguese... 🛠 Working to put also in English. 
   - [Codepen](https://codepen.io/talitaoliveira)
   - [Linkedin](https://www.linkedin.com/in/litaaoliveira/)
 
