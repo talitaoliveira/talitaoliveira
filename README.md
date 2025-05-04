@@ -9,11 +9,12 @@
 🇧🇷  I'm from Brazil and living in Germany.
 
 
-👩🏽‍💻  Currently working @ Scout24.
+👩🏽‍💻  Currently working @ ImmobilienScout24.
 
 
 - 😄  Pronouns: She/Her
 - 🔗  Here are some of my links:
+  - [My Blog](https://blog.talitaoliveira.com.br/)
   - [Codepen](https://codepen.io/talitaoliveira)
   - [Linkedin](https://www.linkedin.com/in/litaaoliveira/)
 
